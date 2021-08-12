@@ -1,0 +1,18 @@
+.list{
+	display: flex;
+	position: absolute;
+    height: 300px;
+    width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.films{
+	
+	margin:0px 50px ;
+}
+
+.actor{
+    
+	margin: 0px 60px;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: #100e17;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.cards{
+    display: flex;
+    position: absolute;
+    height: 300px;
+    width: 600px;
+    top: 60px;
+    left: calc(50% - 300px);
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    
+    width: 600px;
+}
+.card-body{
+    height: 100px;
+}
